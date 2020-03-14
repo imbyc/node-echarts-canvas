@@ -3,7 +3,10 @@
 Echarts server side render by node canvas, generate chart image by Echarts.
 使用NodeJs服务器端渲染echarts图表，生成图片格式。
 
+此仓库克隆自: https://github.com/jessezhang007007/node-echarts-canvas
+
 forked from https://github.com/hellosean1025/node-echarts , 2 changes:
+
 1. update echarts version
 2. change canvas-prebuilt to canvas, canvas-prebuilt was officially deprecated
 
